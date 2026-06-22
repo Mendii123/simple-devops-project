@@ -1,1 +1,0 @@
-- rm - remove, r folder, no r file
