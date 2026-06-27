@@ -1,0 +1,2 @@
+# GitHub Actions Notes
+    github actions is like automatically doing reppetetive tasks after code changes for the repo without manual work being put into it. github does this and its called CI or continuous integration. 
